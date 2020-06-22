@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "jquery": "^1.9.1"
+    "jquery": "^3.5.0"
   }
 }
